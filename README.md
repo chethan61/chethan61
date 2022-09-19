@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chethandan61@gmail.com
+- Thanks
 
 <!---
 chethan61/chethan61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
